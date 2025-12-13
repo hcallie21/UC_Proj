@@ -1,0 +1,76 @@
+"Notes","State of Residence","State of Residence Code",Births
+,"Alabama","01",47665
+,"Alaska","02",7417
+,"Arizona","04",65069
+,"Arkansas","05",29493
+,"California","06",328143
+,"Colorado","08",54485
+,"Connecticut","09",29257
+,"Delaware","10",8743
+,"District of Columbia","11",6076
+,"Florida","12",186645
+,"Georgia","13",104484
+,"Hawaii","15",11833
+,"Idaho","16",20257
+,"Illinois","17",104317
+,"Indiana","18",66837
+,"Iowa","19",30740
+,"Kansas","20",29019
+,"Kentucky","21",44117
+,"Louisiana","22",42188
+,"Maine","23",10183
+,"Maryland","24",53618
+,"Massachusetts","25",57008
+,"Michigan","26",84410
+,"Minnesota","27",52560
+,"Mississippi","28",27422
+,"Missouri","29",57625
+,"Montana","30",9692
+,"Nebraska","31",20353
+,"Nevada","32",26756
+,"New Hampshire","33",10164
+,"New Jersey","34",83782
+,"New Mexico","35",17243
+,"New York","36",169177
+,"North Carolina","37",103082
+,"North Dakota","38",8457
+,"Ohio","39",106376
+,"Oklahoma","40",40462
+,"Oregon","41",32231
+,"Pennsylvania","42",106795
+,"Rhode Island","44",7889
+,"South Carolina","45",49776
+,"South Dakota","46",9658
+,"Tennessee","47",70566
+,"Texas","48",319972
+,"Utah","49",39833
+,"Vermont","50",4250
+,"Virginia","51",75901
+,"Washington","53",69773
+,"West Virginia","54",14231
+,"Wisconsin","55",50032
+,"Wyoming","56",5200
+"Total",,,3011262
+"---"
+"Dataset: Provisional Natality, 2023 through Last Month"
+"Query Parameters:"
+"Year: 2025 (Provisional)"
+"Group By: State of Residence"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/natality-provisional.html for more information."
+"---"
+"Query Date: Dec 11, 2025 9:28:40 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Provisional Natality on CDC WONDER Online Database. Data are from the Natality Records 2023 through Last Month, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/natality-expanded-provisional.html on Dec 11, 2025 9:28:40 PM"
+"---"
+Caveats:
+"1. Each birth record represents one liveborn infant."
+"2. 2024 and 2025 data are provisional and subject to change. 2023 data are final."
+"3. Births occurring through October 31, 2025 as of November 30, 2025."
